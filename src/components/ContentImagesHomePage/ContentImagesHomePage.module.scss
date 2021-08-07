@@ -92,31 +92,31 @@
   }
 }
 
-// .Green {
-//   position: absolute;
-//   pointer-events: none;
-//   display: none;
-//   width: 58.28vw;
-//   height: 97vh;
-//   top: -2vh;
-//   right: 16vw;
+.Green {
+  position: absolute;
+  pointer-events: none;
+  display: none;
+  width: 58.28vw;
+  height: 97vh;
+  top: -2vh;
+  right: 16vw;
 
-//   background-size: contain;
-//   background-repeat: no-repeat;
-//   background-position: right;
-//   z-index: 10;
-//   transition: all 850ms cubic-bezier(0.4, 0, 0.2, 1);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  z-index: 10;
+  transition: all 850ms cubic-bezier(0.4, 0, 0.2, 1);
 
-//   @media screen and (min-width: 768px) and (max-width: 1279px) {
-//     display: block;
-//     width: 591px;
-//     height: 550px;
-//     top: 535px;
-//     right: 160px;
-//     background-image: url('../../res/images/contentImg/GreenLaptop.png');
-//   }
-//   @media screen and (min-width: 1280px) {
-//     display: block;
-//     background-image: url('../../res/images/contentImg/GreenDesc.png');
-//   }
-// }
+  @media screen and (min-width: 768px) and (max-width: 1279px) {
+    display: block;
+    width: 591px;
+    height: 550px;
+    top: 535px;
+    right: 160px;
+    background-image: url('../../res/images/contentImg/GreenLaptop.png');
+  }
+  @media screen and (min-width: 1280px) {
+    display: block;
+    background-image: url('../../res/images/contentImg/GreenDesc.png');
+  }
+}

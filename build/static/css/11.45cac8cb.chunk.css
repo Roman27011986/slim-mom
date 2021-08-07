@@ -95,34 +95,4 @@
     background-image: url(/static/media/StrawberryDesc.46c52095.png);
   }
 }
-.ContentImagesHomePage_Green__1Arbq {
-  position: absolute;
-  pointer-events: none;
-  display: none;
-  width: 58.28vw;
-  height: 97vh;
-  top: -2vh;
-  right: 16vw;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: 100%;
-  z-index: 10;
-  transition: all 0.85s cubic-bezier(0.4, 0, 0.2, 1);
-}
-@media screen and (min-width: 768px) and (max-width: 1279px) {
-  .ContentImagesHomePage_Green__1Arbq {
-    display: block;
-    width: 591px;
-    height: 550px;
-    top: 535px;
-    right: 160px;
-    background-image: url(/static/media/GreenLaptop.07dbb107.png);
-  }
-}
-@media screen and (min-width: 1280px) {
-  .ContentImagesHomePage_Green__1Arbq {
-    display: block;
-    background-image: url(/static/media/GreenDesc.07eae149.png);
-  }
-}
-/*# sourceMappingURL=11.f8481b2c.chunk.css.map */
+/*# sourceMappingURL=11.45cac8cb.chunk.css.map */
